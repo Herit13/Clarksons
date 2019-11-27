@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+}
+
+.child {
+  padding: 1rem;
+}
+
+.sub {
+  display: flex;
+}
+
+@media screen and (max-width: 960px) {
+  .main {
+    display: flex;
+  }
+
+  .sub {
+    display: flex;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+  }
+
+}

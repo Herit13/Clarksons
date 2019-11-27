@@ -1,0 +1,10 @@
+Tree Traversal
+
+-> const n = new TreeTraversal(arr)
+console.log(n.flatten())
+
+
+
+For DOM Results 
+
+-> console.log(DOMFn("SYS:hello"))
